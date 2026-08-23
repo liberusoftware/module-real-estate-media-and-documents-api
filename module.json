@@ -4,7 +4,7 @@
     "display_name": "Real Estate Media and Documents API",
     "description": "Versioned API adapter for media and document records.",
     "version": "1.0.0",
-    "category": "api",
+    "category": "adapter",
     "provider": "Liberu\\RealEstate\\MediaAndDocumentsApi\\MediaAndDocumentsApiServiceProvider",
     "requires": {"php": "^8.5", "laravel": "^13.0", "packages": {"liberusoftware/real-estate-media-and-documents": "^1.0"}},
     "suggests": {},
